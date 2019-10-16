@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.avrdude.path=C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\tools\\avr,runtime.tools.avr-gcc.path=C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\tools\\avr",
+  "fqbn": "ariadne:avr:ariadne2560MW:version=debugw5100",
+  "hardwareFolders": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10801",
+  "sketchLocation": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\22_02_2019_Poa\\_22_02_2019_Poa_156\\_22_02_2019_Poa_156.ino",
+  "toolsFolders": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\tools-builder,C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\tools\\avr"
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "ICMPPing.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\icmp_ping"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "Ethernet.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "MFRC522.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\rfid-master"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "TimeLib.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\Time-master"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\Codigos Arduino\\Compilados\\sketch\\_22_02_2019_Poa_156.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\icmp_ping\\ICMPPing.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\Dhcp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\Dns.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\Ethernet.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\EthernetClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\EthernetServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\EthernetUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\utility\\socket.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\arduino-1.8.1\\libraries\\Ethernet\\src\\utility\\w5100.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\rfid-master\\MFRC522.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\rfid-master\\RFID.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\Time-master\\DateStrings.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\julio.medeiros\\Documents\\Arduino\\libraries\\Time-master\\Time.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
